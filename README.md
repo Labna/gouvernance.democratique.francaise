@@ -77,3 +77,9 @@ En plus de la version bureau (Windows et Linux), une attention toute particuliè
 ### L'hébergement et le maintien
 
 Par défaut le projet sera maintenu sur toutes les plateformes GIT que je pourrais trouver. Si vous possédez une instance de serveur GIT n'hésitez pas à la rajouter dans ce projet.
+
+<style>
+h1, h2, h3{
+	text-decoration: none;
+}
+</style>
