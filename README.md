@@ -22,7 +22,7 @@ L'objectif est de donner le pouvoir de rédaction des codes:
 - de la fonction publique
 - ...
 
-D'abord, chacun peut rédiger et de modifier les textes de loi, comparer à d'autres proposition, rédiger une version fusionné des propositions.  
+D'abord, chacun peut rédiger et modifier les textes de loi, comparer les proposition et rédiger une version fusionné des propositions.  
 Toutes ces proposition peuvent être poussé en haut du classement afin d'être voté lors de la prochaine session de vote, selon moi un vote hebdomadaire devrait suffire pour poussez une modification de loi. Toute loi voté sera applicable exactement 1 an après la date de clôture de son vote.
 Soit un total de 56 modifications par ans, je considère qu'un texte de loi étant construit pour des générations n'a pas besoin d'être modifier un millier de foi par an.
 
